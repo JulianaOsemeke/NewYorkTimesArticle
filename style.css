@@ -19,8 +19,8 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 0 20px 10 0;
-  border-bottom:2px solid grey ;
-  border-top: 2px solid grey;
+  border-bottom: 1px solid grey;
+  border-top: 1px solid grey;
 }
 
 .logo {
@@ -37,7 +37,7 @@ header {
 }
 
 a {
-  color:black;
+  color: black;
 }
 
 .nav_links li a {
@@ -52,7 +52,7 @@ button {
   height: 30px;
   width: auto;
   padding: 0 5px 3px 5px;
-  background-color: rgb(86,123,149);
+  background-color: rgb(86, 123, 149);
   color: white;
   border: none;
   cursor: pointer;
@@ -65,5 +65,3 @@ button {
 .image {
   max-width: 100%;
 }
-
-
