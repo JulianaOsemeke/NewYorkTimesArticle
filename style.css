@@ -10,7 +10,6 @@ li {
   font-weight: 500;
   font-size: 16px;
   text-decoration: none;
-  list-style-type: none;
 }
 
 header {
@@ -20,16 +19,43 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 0 20px 10 0;
-  border-bottom:1px solid grey;
-  border-top: 1px solid grey;
-
+  border-bottom:2px solid grey ;
+  border-top: 2px solid grey;
 }
 
 .logo {
   cursor: pointer;
+}
+
+.nav_links {
+  list-style-type: none;
+}
+
+.nav_links li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+a {
+  color:black;
+}
+
+.nav_links li a {
+  transition: all 0.3s ease 0s;
+}
+
+.nav_links li a:hover {
+  color: grey;
+}
+
+button {
+  height: 30px;
+  width: auto;
+  padding: 0 5px 3px 5px;
   background-color: rgb(86,123,149);
   color: white;
   border: none;
+  cursor: pointer;
   border-radius: 5%;
   font-size: 15px;
   font-weight: bold;
@@ -40,6 +66,4 @@ header {
   max-width: 100%;
 }
 
-.flex-container {
-  margin-bottom: 500px;
-}
+
