@@ -35,11 +35,8 @@ header{
 
 
 .nav_links{
-    list-style-type: none;
-    under
+    list-style-type: none
 }
-
-
 
 
 .nav_links li{
@@ -49,7 +46,6 @@ header{
 
 a{
     color:black;
-   
 
 }
 
@@ -83,4 +79,6 @@ button{
     max-width: 100%;
 }
 
-
+.flex-container {
+  margin-bottom: 500px;
+}
