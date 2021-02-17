@@ -12,6 +12,7 @@ li{
     font-weight:500 ;
     font-size: 16px;
     text-decoration: none;
+    list-style-type: none;
 }
 
 
@@ -35,20 +36,21 @@ header{
 
 .nav_links{
     list-style-type: none;
+    under
 }
+
+
 
 
 .nav_links li{
     display: inline-block;
     padding: 0px 20px;
-    
-    
 }
 
 a{
     color:black;
    
-    
+
 }
 
 
