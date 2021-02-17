@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# New York Times Article
 
-> One paragraph statement about the project.
+>  Clone a New York Times Article
 
 ![screenshot](./app_screenshot.png)
 
@@ -10,9 +10,8 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML & CSS
+- Visual Studio Code
 
 ## Live Demo
 
@@ -45,8 +44,8 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- GitHub: [@githubhandle](https://github.com/JulianaOsemeke)
+- Twitter: [@twitterhandle](@JulianaOsemeke)
 - LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
 👤 **Author2**
