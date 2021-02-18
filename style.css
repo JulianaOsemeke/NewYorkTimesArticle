@@ -69,20 +69,26 @@ button {
   margin: 0 0 0 6px;
 }
 
-.btn{
+.btn {
   margin-left: 0;
 }
 
-.h1-container{
+.h1-container {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
 }
 
-.social-icons li{
+h1 {
+  margin-right: 400px;
+}
+
+.social-icons li {
   display: flex;
+  flex-direction: row;
   list-style-type: none;
+  margin-right: 400px;
 }
 
 
