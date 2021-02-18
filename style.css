@@ -5,6 +5,12 @@
   background-color: white;
 }
 
+main{
+  margin-left: 300px;
+  font-size: 20px;
+}
+
+
 li {
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 500;
@@ -26,6 +32,7 @@ header {
 .logo {
   cursor: pointer;
 }
+
 
 .nav_links {
   list-style-type: none;
@@ -62,6 +69,28 @@ button {
   margin: 0 0 0 6px;
 }
 
+.btn{
+  margin-left: 0;
+}
+
+.h1-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.social-icons li{
+  display: flex;
+  list-style-type: none;
+}
+
+
+
+
+
+
 .image {
-  max-width: 100%;
+  margin: 0 auto;
+  max-width: 60%;
 }
