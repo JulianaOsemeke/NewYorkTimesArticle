@@ -45,6 +45,11 @@ a {
   color: black;
 }
 
+.article-demarcate a {
+  color: rgb(86, 123, 149);
+  text-decoration-line: none;
+}
+
 .nav_links li a {
   transition: all 0.3s ease 0s;
 }
@@ -133,16 +138,6 @@ figcaption {
 
 .asideflex-container {
   float: right;
-  width: 30%;
-}
-
-.aside-content li {
-  text-decoration: none;
-}
-
-.article-demarcate a {
-  color: rgb(86, 123, 149);
-  text-decoration-line: none;
 }
 
 .ImagesGrid1 {
