@@ -133,7 +133,6 @@ figcaption {
   font-size: 15px;
   font-family: sans-serif;
   float: left;
-  width: 40%;
 }
 
 .asideflex-container {
@@ -178,7 +177,7 @@ figcaption {
 }
 
 .bottom-icons li {
- padding: 10px;
+  padding: 10px;
 }
 
 .commentsbutton {
