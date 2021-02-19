@@ -6,7 +6,7 @@
 
 ![screenshot](Images/screencapture-file-home-juliana58-Desktop-NewYorkTimesArticle-index-html-2021-02-19-14_58_00.png)
 
-Additional description about the project and its features.
+Solo Project practising positioning and floats by replicating a clone of a New york times Article
 
 ## Built With
 
@@ -15,44 +15,15 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+[Live Demo Link](https://julianaosemeke.github.io/NewYorkTimesArticle/)
 
 ## Authors
 
-👤 **Author1**
+👤 **Juliana Osemeke**
 
-- GitHub: [@githubhandle](https://github.com/JulianaOsemeke)
-- Twitter: [@twitterhandle](@JulianaOsemeke)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@JulianaOsemeke](https://github.com/JulianaOsemeke)
+- Twitter: [https://twitter.com/julianaosemeke](@JulianaOsemeke)
+- LinkedIn: [https://ng.linkedin.com/in/juliana-osemeke](https://linkedin.com/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -63,12 +34,6 @@ Feel free to check the [issues page](issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
