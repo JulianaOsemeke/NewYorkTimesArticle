@@ -23,7 +23,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 5px;
+  padding: 3px;
   border-bottom: 1px solid grey;
   border-top: 1px solid grey;
 }
@@ -78,18 +78,129 @@ button {
   align-items: center;
 }
 
-h1 {
-  margin-right: 400px;
+.a {
+  margin-right: 300px;
+  border-bottom: 1px solid grey;
+  width: 600px;
 }
 
-.social-icons li {
+.b ul {
   display: flex;
   flex-direction: row;
+  justify-content: space-evenly;
   list-style-type: none;
-  margin-right: 400px;
+  margin-right: 700px;
+  margin-top: 25px;
+}
+
+.b li {
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .image {
   margin: 0 auto;
-  max-width: 60%;
+  max-width: 80%;
+  margin-top: 50px;
 }
+
+figcaption {
+  font-size: 16px;
+  color: grey;
+}
+
+.aside-box {
+  display: flex;
+  flex-direction: row;
+  
+}
+
+.aside-content li {
+  list-style-type: none;
+  text-decoration-line: none ;
+}
+
+.article-demarcate {
+  border-top: 1px solid grey;
+  border-bottom: 2px solid grey;
+  width: 40%;
+  height: 60%;
+  padding: 20px;
+  font-size: 15px;
+  font-family: sans-serif;
+  float: left;
+  width: 40%;
+}
+
+.asideflex-container {
+  float: right;
+  width: 30%;
+}
+
+.aside-content li { 
+  text-decoration: none;
+}
+
+.article-demarcate a{
+  color: rgb(86, 123, 149);
+  text-decoration-line: none;
+}
+
+.bottom-icons {
+  display: flex;
+  flex-direction: row;
+}
+
+.commentsbutton {
+  float: left; 
+  width: 50%;
+  
+}
+
+.bottom-icons ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  list-style-type: none;
+  float: right;
+  width: 20%;
+}
+
+#bottom-button {
+  border: none;
+  background-color: rgb(86, 123, 149);
+  color: white;
+  width: 180px;
+}
+
+.Bottomcontent{
+  display: flex;
+  flex-wrap: wrap;
+  width: 64%;
+  height: 90%;
+  border-top: 1px solid grey;
+  border-bottom: 1px solid grey;
+  margin-left: 100px;
+}
+
+.MostPopular {
+  border-top: 1px solid grey;
+  border-bottom: 1px solid grey;
+}
+
+.Bottom-PageLinks {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 80%;
+  height: 80%;
+}
+
+.Bottom-PageLinks li {
+  list-style-type: none; 
+  font-size: 12px;
+}
+
+
+
+
