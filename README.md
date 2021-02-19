@@ -4,7 +4,7 @@
 
 >  Clone a New York Times Article
 
-![screenshot](./app_screenshot.png)
+![screenshot](Images/screencapture-file-home-juliana58-Desktop-NewYorkTimesArticle-index-html-2021-02-19-14_58_00.png)
 
 Additional description about the project and its features.
 

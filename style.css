@@ -146,11 +146,52 @@ figcaption {
   text-decoration-line: none;
 }
 
+
+
+.ImagesGrid1{
+  display: flex;
+  justify-content: space-between;
+}
+
+.paragraphsGrid1 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.paragraphsGrid1 p {
+  font-size: 10px;
+}
+
+.ImagesGrid2{
+  display: flex;
+  justify-content: space-between;
+}
+
+.paragraphsGrid2 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.paragraphsGrid2 p {
+  font-size: 10px;
+}
+
+.Bottom-Illustration p {
+  font-size: 10px;  
+}
+
+
+
+
+
 .bottom-icons {
   display: flex;
   flex-direction: row;
 }
 
+.bottom-icons li {
+  padding: 10px;
+} 
 .commentsbutton {
   float: left; 
   width: 50%;
@@ -177,15 +218,13 @@ figcaption {
   display: flex;
   flex-wrap: wrap;
   width: 64%;
-  height: 90%;
   border-top: 1px solid grey;
   border-bottom: 1px solid grey;
   margin-left: 100px;
 }
 
-.MostPopular {
-  border-top: 1px solid grey;
-  border-bottom: 1px solid grey;
+.popular {
+  float: right;
 }
 
 .Bottom-PageLinks {
@@ -194,6 +233,8 @@ figcaption {
   justify-content: space-between;
   width: 80%;
   height: 80%;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .Bottom-PageLinks li {
@@ -201,6 +242,28 @@ figcaption {
   font-size: 12px;
 }
 
+.subscribe li {
+  list-style-type: none; 
+  font-size: 12px;
+}
+
+.footer ul{
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+
+}
+
+.footer li {
+  list-style-type: none; 
+  font-size: 12px;
+  padding: 8px;
+}
+
+
+.astronomy {
+
+}
 
 
 
