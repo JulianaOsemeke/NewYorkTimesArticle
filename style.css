@@ -145,7 +145,7 @@ figcaption {
 
 .Grid {
   max-width: 100%; 
-  height:  auto;
+  height: auto;
 }
 
 .ImagesGrid1 {
@@ -237,13 +237,13 @@ figcaption {
   width: 50%;
 }
 
-#popular { 
+#popular {
   float: right;
   width: 40%;
 }
 
 .MostPopular {
-  margin-bottom: 70px; 
+  margin-bottom: 70px;
 }
 
 .b {
