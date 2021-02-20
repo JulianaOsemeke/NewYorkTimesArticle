@@ -1,0 +1,12 @@
+#a{
+  float: left;
+  width: 60%;
+}
+
+#popular{
+  float: right;
+  width: 40%;
+}
+
+
+<div id="astronomy"    class="Bottomcontent">
