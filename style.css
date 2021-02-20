@@ -143,11 +143,12 @@ figcaption {
   float: right;
 }
 
-h4,h6 {
+h4 {
   margin-left: -140px;
 }
 
 h6 {
+  margin-left: -140px;
   font-weight: 100;
   font-size: 20px;
 }
