@@ -4,7 +4,7 @@
 
 >  Clone a New York Times Article
 
-![screenshot](Images/screencapture-file-home-juliana58-Desktop-NewYorkTimesArticle-index-html-2021-02-19-14_58_00.png)
+![screenshot](Images/screencapture-127-0-0-1-5500-index-html-2021-02-20-13_24_58.png)
 
 Solo Project practising positioning and floats by replicating a clone of a New york times Article
 
